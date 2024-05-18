@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ArgenisGonzalez-Ksquare/h-bday/static/css/main.5b16202c.css",
-    "main.js": "/ArgenisGonzalez-Ksquare/h-bday/static/js/main.3b65758f.js",
-    "static/js/453.6a79150d.chunk.js": "/ArgenisGonzalez-Ksquare/h-bday/static/js/453.6a79150d.chunk.js",
-    "static/media/Usa.jpg": "/ArgenisGonzalez-Ksquare/h-bday/static/media/Usa.e2277cf8b8e737790640.jpg",
-    "static/media/Estudio.jpg": "/ArgenisGonzalez-Ksquare/h-bday/static/media/Estudio.245647dcf05792e22249.jpg",
-    "static/media/Nosotros.jpg": "/ArgenisGonzalez-Ksquare/h-bday/static/media/Nosotros.02d117ea8ed5712f2669.jpg",
-    "static/media/Fondo.jpg": "/ArgenisGonzalez-Ksquare/h-bday/static/media/Fondo.a31e08df1e66ed950630.jpg",
-    "static/media/Etsuko.jpg": "/ArgenisGonzalez-Ksquare/h-bday/static/media/Etsuko.3b1835f59c776b05d4a9.jpg",
-    "static/media/Playa.jpg": "/ArgenisGonzalez-Ksquare/h-bday/static/media/Playa.d7523b996105368a4725.jpg",
-    "index.html": "/ArgenisGonzalez-Ksquare/h-bday/index.html",
-    "main.5b16202c.css.map": "/ArgenisGonzalez-Ksquare/h-bday/static/css/main.5b16202c.css.map",
-    "main.3b65758f.js.map": "/ArgenisGonzalez-Ksquare/h-bday/static/js/main.3b65758f.js.map",
-    "453.6a79150d.chunk.js.map": "/ArgenisGonzalez-Ksquare/h-bday/static/js/453.6a79150d.chunk.js.map"
+    "main.css": "/h-bday//h-bday/static/css/main.5b16202c.css",
+    "main.js": "/h-bday//h-bday/static/js/main.27499b7a.js",
+    "static/js/453.6a79150d.chunk.js": "/h-bday//h-bday/static/js/453.6a79150d.chunk.js",
+    "static/media/Usa.jpg": "/h-bday//h-bday/static/media/Usa.e2277cf8b8e737790640.jpg",
+    "static/media/Estudio.jpg": "/h-bday//h-bday/static/media/Estudio.245647dcf05792e22249.jpg",
+    "static/media/Nosotros.jpg": "/h-bday//h-bday/static/media/Nosotros.02d117ea8ed5712f2669.jpg",
+    "static/media/Fondo.jpg": "/h-bday//h-bday/static/media/Fondo.a31e08df1e66ed950630.jpg",
+    "static/media/Etsuko.jpg": "/h-bday//h-bday/static/media/Etsuko.3b1835f59c776b05d4a9.jpg",
+    "static/media/Playa.jpg": "/h-bday//h-bday/static/media/Playa.d7523b996105368a4725.jpg",
+    "index.html": "/h-bday//h-bday/index.html",
+    "main.5b16202c.css.map": "/h-bday//h-bday/static/css/main.5b16202c.css.map",
+    "main.27499b7a.js.map": "/h-bday//h-bday/static/js/main.27499b7a.js.map",
+    "453.6a79150d.chunk.js.map": "/h-bday//h-bday/static/js/453.6a79150d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b16202c.css",
-    "static/js/main.3b65758f.js"
+    "static/js/main.27499b7a.js"
   ]
 }

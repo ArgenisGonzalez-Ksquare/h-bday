@@ -43,7 +43,7 @@ const HeaderContainer = styled.div`
 `;
 
 const Title = styled.h1`
-  font-size: 3rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
   font-family: 'Poetsen One', sans-serif;
   text-shadow: 4px 4px 7px rgba(0, 0, 0, 0.2);
@@ -54,7 +54,7 @@ const Title = styled.h1`
 `;
 
 const Subtitle = styled.p`
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   @media (max-width: 430px) {
     font-size: 1.2rem;
   }

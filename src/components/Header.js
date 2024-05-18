@@ -56,7 +56,7 @@ const Title = styled.h1`
 const Subtitle = styled.p`
   font-size: 1.2rem;
   @media (max-width: 430px) {
-    font-size: 1.2rem;
+    font-size: 1.0rem;
   }
 `;
 
